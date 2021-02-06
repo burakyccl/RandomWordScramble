@@ -1,0 +1,10 @@
+C:\Users\182802019\source\repos\KelimeBul\KelimeBul\bin\Debug\KelimeBul.exe.config
+C:\Users\182802019\source\repos\KelimeBul\KelimeBul\bin\Debug\KelimeBul.exe
+C:\Users\182802019\source\repos\KelimeBul\KelimeBul\bin\Debug\KelimeBul.pdb
+C:\Users\182802019\source\repos\KelimeBul\KelimeBul\obj\Debug\KelimeBul.csprojAssemblyReference.cache
+C:\Users\182802019\source\repos\KelimeBul\KelimeBul\obj\Debug\KelimeBul.Form1.resources
+C:\Users\182802019\source\repos\KelimeBul\KelimeBul\obj\Debug\KelimeBul.Properties.Resources.resources
+C:\Users\182802019\source\repos\KelimeBul\KelimeBul\obj\Debug\KelimeBul.csproj.GenerateResource.cache
+C:\Users\182802019\source\repos\KelimeBul\KelimeBul\obj\Debug\KelimeBul.csproj.CoreCompileInputs.cache
+C:\Users\182802019\source\repos\KelimeBul\KelimeBul\obj\Debug\KelimeBul.exe
+C:\Users\182802019\source\repos\KelimeBul\KelimeBul\obj\Debug\KelimeBul.pdb
